@@ -6,14 +6,14 @@ module.exports = {
 	title: 'AIYA领域',
 	description: '路漫漫其修远兮，吾将上下而求索。',
 	head: headConf,
-	dest: './docs/.vuepress/dist',
+	dest: './dist',
 	themeConfig: themeConf,
 	plugins: pluginConf,
 	ga: '',
 	evergreen: true,
 	markdown: {
 		lineNumbers: true,
-		extendMarkdown: md => {
+		extendMarkdown: (md) => {
 			md.use(require('markdown-it-task-lists'));
 		}
 	}
