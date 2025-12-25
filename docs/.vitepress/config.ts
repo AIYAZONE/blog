@@ -65,7 +65,7 @@ function getSidebar(dirName, title) {
 
 export default defineConfig({
 	title: 'AIYA Personal Brand',
-	outDir: '../dist',
+	outDir: path.resolve(__dirname, '../../dist'),
 	description: 'Personal Brand, Blog, and Documentation',
 	ignoreDeadLinks: true,
 	vite: {
