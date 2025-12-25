@@ -1,0 +1,291 @@
+{
+  "skillCategories": [
+    {
+      "id": "frontend",
+      "name": "Frontend Development",
+      "type": "frontend",
+      "skills": [
+        {
+          "id": "vue",
+          "name": "Vue.js",
+          "level": 9,
+          "yearsOfExperience": 6,
+          "projects": [
+            "AIYAZONE Personal Site",
+            "Enterprise Management System",
+            "Mobile App"
+          ],
+          "description": "Deep mastery of Vue 2/3 ecosystem, including Composition API, Pinia state management, etc."
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "level": 8,
+          "yearsOfExperience": 5,
+          "projects": [
+            "Large-scale Frontend Project",
+            "Component Library Development",
+            "Engineering Tools"
+          ],
+          "description": "Proficient in using TypeScript for large-scale project development, experienced in type system design"
+        },
+        {
+          "id": "react",
+          "name": "React",
+          "level": 7,
+          "yearsOfExperience": 4,
+          "projects": [
+            "Enterprise Application",
+            "Component Library",
+            "Mobile Hybrid App"
+          ],
+          "description": "Experienced in React ecosystem development, including Hooks, Redux, etc."
+        },
+        {
+          "id": "javascript",
+          "name": "JavaScript",
+          "level": 9,
+          "yearsOfExperience": 10,
+          "projects": [
+            "All Frontend Projects",
+            "Node.js Backend",
+            "Tool Scripts"
+          ],
+          "description": "JavaScript language expert, deep understanding of ES6+ features and asynchronous programming"
+        },
+        {
+          "id": "css",
+          "name": "CSS/Less/Sass",
+          "level": 8,
+          "yearsOfExperience": 10,
+          "projects": [
+            "Responsive Website",
+            "Component Library Styles",
+            "Mobile Adaptation"
+          ],
+          "description": "Mastery of CSS3, preprocessors, and modern layout technologies, experienced in building design systems"
+        },
+        {
+          "id": "webpack",
+          "name": "Webpack/Vite",
+          "level": 8,
+          "yearsOfExperience": 6,
+          "projects": [
+            "Build System Optimization",
+            "Multi-environment Configuration",
+            "Performance Optimization"
+          ],
+          "description": "Deep mastery of modern frontend build tools, experienced in complex project build optimization"
+        },
+        {
+          "id": "performance",
+          "name": "Performance Optimization",
+          "level": 8,
+          "yearsOfExperience": 7,
+          "projects": [
+            "Large Application Optimization",
+            "Mobile Performance",
+            "First Screen Loading Optimization"
+          ],
+          "description": "Rich experience in frontend performance optimization, including code splitting, caching strategies, etc."
+        }
+      ]
+    },
+    {
+      "id": "management",
+      "name": "Project Management",
+      "type": "management",
+      "skills": [
+        {
+          "id": "pmp",
+          "name": "Project Management (PMP)",
+          "level": 8,
+          "yearsOfExperience": 3,
+          "projects": [
+            "Large-scale Frontend Project",
+            "Cross-department Collaboration Project",
+            "Product Iteration Management"
+          ],
+          "description": "PMP certified, possessing complete project management theoretical knowledge and practical experience"
+        },
+        {
+          "id": "agile",
+          "name": "Agile Development (ACP)",
+          "level": 8,
+          "yearsOfExperience": 4,
+          "projects": [
+            "Agile Team Management",
+            "Scrum Practice",
+            "Continuous Delivery"
+          ],
+          "description": "ACP certified, skilled in using Scrum, Kanban, and other agile methodologies"
+        },
+        {
+          "id": "risk-management",
+          "name": "Risk Management",
+          "level": 7,
+          "yearsOfExperience": 3,
+          "projects": [
+            "Project Risk Assessment",
+            "Technical Risk Control",
+            "Schedule Risk Management"
+          ],
+          "description": "Experienced in project risk identification, assessment, and response"
+        },
+        {
+          "id": "stakeholder",
+          "name": "Stakeholder Management",
+          "level": 7,
+          "yearsOfExperience": 4,
+          "projects": [
+            "Cross-department Communication",
+            "Customer Requirement Management",
+            "Team Coordination"
+          ],
+          "description": "Good at effective communication and coordination with stakeholders at different levels and departments"
+        }
+      ]
+    },
+    {
+      "id": "leadership",
+      "name": "Team Leadership",
+      "type": "leadership",
+      "skills": [
+        {
+          "id": "team-building",
+          "name": "Team Building",
+          "level": 7,
+          "yearsOfExperience": 4,
+          "projects": [
+            "Frontend Team Building",
+            "Skill Training",
+            "Team Culture Building"
+          ],
+          "description": "Experienced in team building, training, and motivation"
+        },
+        {
+          "id": "mentoring",
+          "name": "Technical Mentoring",
+          "level": 8,
+          "yearsOfExperience": 5,
+          "projects": [
+            "Newcomer Training",
+            "Technical Sharing",
+            "Code Review"
+          ],
+          "description": "Good at guiding junior and intermediate developers in technical growth, establishing technical standards and best practices"
+        },
+        {
+          "id": "architecture",
+          "name": "Technical Architecture",
+          "level": 7,
+          "yearsOfExperience": 4,
+          "projects": [
+            "Frontend Architecture Design",
+            "Technology Selection",
+            "System Refactoring"
+          ],
+          "description": "Capable of frontend architecture design and technical decision-making, focusing on maintainability and scalability"
+        },
+        {
+          "id": "communication",
+          "name": "Communication & Coordination",
+          "level": 8,
+          "yearsOfExperience": 6,
+          "projects": [
+            "Cross-team Collaboration",
+            "Requirement Clarification",
+            "Technical Solution Presentation"
+          ],
+          "description": "Excellent communication skills, able to clearly express technical concepts and project progress"
+        }
+      ]
+    }
+  ],
+  "experienceItems": [
+    {
+      "id": "current-role",
+      "company": "A Shenzhen Internet Company",
+      "position": "Senior Frontend Engineer / Tech Lead",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "achievements": [
+        "Responsible for frontend team technical architecture design and tech stack selection",
+        "Established frontend engineering system, improving team efficiency by 30%",
+        "Led large-scale project refactoring, improving performance by over 50%",
+        "Mentored 3 junior developers to become intermediate engineers",
+        "Obtained PMP and ACP certifications, enhancing project management capabilities"
+      ],
+      "technologies": [
+        "Vue 3",
+        "TypeScript",
+        "Vite",
+        "Pinia",
+        "Element Plus",
+        "Micro Frontends"
+      ]
+    },
+    {
+      "id": "previous-role-1",
+      "company": "A Shenzhen Tech Company",
+      "position": "Frontend Engineer",
+      "startDate": "2018-06-01",
+      "endDate": "2021-02-28",
+      "achievements": [
+        "Independently responsible for development and maintenance of multiple medium-to-large frontend projects",
+        "Established component library and design system, improving development efficiency",
+        "Optimized project build process, reducing build time by 60%",
+        "Participated in mobile hybrid app development, accumulating cross-platform experience"
+      ],
+      "technologies": [
+        "Vue 2",
+        "React",
+        "Webpack",
+        "Less",
+        "Ant Design",
+        "React Native"
+      ]
+    },
+    {
+      "id": "previous-role-2",
+      "company": "A Shenzhen Startup",
+      "position": "Frontend Developer",
+      "startDate": "2015-09-01",
+      "endDate": "2018-05-31",
+      "achievements": [
+        "Built frontend tech stack and development standards from scratch",
+        "Responsible for frontend development of company official website and management backend",
+        "Implemented responsive design, supporting multi-terminal access",
+        "Participated in product requirement analysis and technical solution design"
+      ],
+      "technologies": [
+        "jQuery",
+        "Bootstrap",
+        "Gulp",
+        "Sass",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "early-career",
+      "company": "A Shenzhen Traditional Enterprise",
+      "position": "Junior Frontend Developer",
+      "startDate": "2014-07-01",
+      "endDate": "2015-08-31",
+      "achievements": [
+        "Learned modern frontend development technologies and tools",
+        "Participated in frontend development of internal enterprise systems",
+        "Mastered basic HTML, CSS, JavaScript skills",
+        "Established good programming habits and code standard awareness"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap"
+      ]
+    }
+  ]
+}

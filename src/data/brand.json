@@ -1,0 +1,40 @@
+{
+  "brandInfo": {
+    "id": "1",
+    "name": "AIYAZONE",
+    "title": "Frontend Architect & Tech Lead",
+    "subtitle": "Frontend Architect & Tech Lead",
+    "intro": "{experience} years of frontend development experience, PMP/ACP certified, focusing on frontend architecture, performance optimization, and engineering",
+    "profileImage": "/logo.jpg",
+    "location": "Shenzhen",
+    "age": 34,
+    "experience": 10,
+    "tagline": "Perfect combination of technical depth and management breadth",
+    "valueProposition": [
+      "Frontend Architecture Design & Implementation",
+      "Performance Optimization & Monitoring",
+      "Engineering System Construction",
+      "Technical Team Management"
+    ]
+  },
+  "certifications": [
+    {
+      "id": "1",
+      "name": "Project Management Professional (PMP)",
+      "issuer": "Project Management Institute",
+      "issueDate": "2022-06-15",
+      "credentialId": "PMP-2022-001",
+      "imageUrl": "/assets/images/pmp-cert.jpg",
+      "verificationUrl": "https://www.pmi.org/certifications/verify"
+    },
+    {
+      "id": "2",
+      "name": "Agile Certified Practitioner (ACP)",
+      "issuer": "Project Management Institute",
+      "issueDate": "2023-03-20",
+      "credentialId": "ACP-2023-001",
+      "imageUrl": "/assets/images/acp-cert.jpg",
+      "verificationUrl": "https://www.pmi.org/certifications/verify"
+    }
+  ]
+}

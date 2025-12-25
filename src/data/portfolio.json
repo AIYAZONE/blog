@@ -1,0 +1,293 @@
+{
+  "projectGroups": [
+    {
+      "id": "digital-garden",
+      "title": "Digital Garden",
+      "description": "Personal technical blog and knowledge sharing platform, recording technical growth and project management practices",
+      "projects": [
+        {
+          "id": "aiyazone-blog",
+          "name": "AIYAZONE Blog",
+          "description": "VitePress-based technical blog sharing frontend development and project management experiences",
+          "category": "digital-garden",
+          "techStack": [
+            "VitePress",
+            "Vue 3",
+            "TypeScript",
+            "Markdown",
+            "GitHub Actions"
+          ],
+          "status": "online",
+          "url": "https://blog.aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/blog",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "Technical Article Sharing",
+            "Project Management Knowledge System",
+            "Frontend Tech Stack Deep Dive",
+            "Automated Deployment Flow",
+            "SEO Optimization Practice"
+          ],
+          "metrics": {
+            "visitors": 5200,
+            "performance": {
+              "loadTime": 1200,
+              "firstContentfulPaint": 800,
+              "largestContentfulPaint": 1500,
+              "cumulativeLayoutShift": 0.1
+            }
+          }
+        },
+        {
+          "id": "fe-docs",
+          "name": "Frontend Tech Docs",
+          "description": "Systematic frontend technical knowledge system, covering basics to architecture design",
+          "category": "digital-garden",
+          "techStack": [
+            "VitePress",
+            "Vue 3",
+            "TypeScript",
+            "Mermaid"
+          ],
+          "status": "online",
+          "url": "https://fe.aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/fe-docs",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "Frontend Tech System Overview",
+            "Best Practices Summary",
+            "Case Studies and Code Examples",
+            "Performance Optimization Guide",
+            "Engineering Practices"
+          ],
+          "metrics": {
+            "visitors": 3800,
+            "stars": 45,
+            "forks": 12
+          }
+        },
+        {
+          "id": "pm-knowledge",
+          "name": "Project Management Knowledge",
+          "description": "PMP/ACP study materials and practical experience sharing for project management capability improvement",
+          "category": "digital-garden",
+          "techStack": [
+            "VitePress",
+            "Markdown",
+            "Mermaid",
+            "PlantUML"
+          ],
+          "status": "online",
+          "url": "https://pm.aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/pm-docs",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "PMP Knowledge Points",
+            "ACP Agile Practices",
+            "Project Management Case Studies",
+            "Tools and Templates Sharing",
+            "Certification Exam Experience"
+          ],
+          "metrics": {
+            "visitors": 2100,
+            "stars": 28,
+            "forks": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "featured-work",
+      "title": "Featured Work",
+      "description": "Core technical projects and innovative practices, demonstrating frontend technical depth and architectural capabilities",
+      "projects": [
+        {
+          "id": "zenparticles",
+          "name": "ZenParticles",
+          "description": "WebGL-based particle system visualization project exploring frontend graphics rendering technology",
+          "category": "featured-work",
+          "techStack": [
+            "WebGL",
+            "Three.js",
+            "TypeScript",
+            "Canvas",
+            "GLSL"
+          ],
+          "status": "online",
+          "url": "https://zenparticles.aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/zenparticles",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "Real-time Particle System Rendering",
+            "GPU Accelerated Computing",
+            "Interactive Parameter Adjustment",
+            "Performance Monitoring Panel",
+            "Multiple Particle Effect Presets"
+          ],
+          "metrics": {
+            "stars": 156,
+            "forks": 32,
+            "visitors": 1800,
+            "performance": {
+              "loadTime": 2100,
+              "firstContentfulPaint": 1200,
+              "largestContentfulPaint": 2800,
+              "cumulativeLayoutShift": 0.05
+            }
+          }
+        },
+        {
+          "id": "sun-travel",
+          "name": "Sun Travel",
+          "description": "Modern travel planning application integrating maps, route planning, and itinerary management",
+          "category": "featured-work",
+          "techStack": [
+            "Vue 3",
+            "TypeScript",
+            "Pinia",
+            "Element Plus",
+            "AMap API"
+          ],
+          "status": "development",
+          "url": "https://sun-travel.aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/sun-travel",
+          "imageUrl": "/assets/images/logo/suntravel-light.png",
+          "features": [
+            "Smart Route Planning",
+            "Attraction Recommendation System",
+            "Itinerary Management Tool",
+            "Map Integration Service",
+            "User Review System"
+          ],
+          "metrics": {
+            "stars": 23,
+            "forks": 7,
+            "visitors": 650
+          }
+        },
+        {
+          "id": "personal-brand-system",
+          "name": "Personal Brand System",
+          "description": "Personal brand website under development, showcasing complete tech stack and project management capabilities",
+          "category": "featured-work",
+          "techStack": [
+            "Vue 3",
+            "TypeScript",
+            "Pinia",
+            "Vue I18n",
+            "Less",
+            "Vite"
+          ],
+          "status": "development",
+          "url": "https://aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/personal-brand",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "Responsive Brand Showcase",
+            "Skills Visualization",
+            "Portfolio Management System",
+            "SWOT Analysis Display",
+            "Career Planning Roadmap",
+            "Multi-language Internationalization Support"
+          ],
+          "metrics": {
+            "stars": 12,
+            "forks": 3,
+            "visitors": 420
+          }
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "title": "Community Projects",
+      "description": "Open source contributions and community participation, promoting technical ecosystem development",
+      "projects": [
+        {
+          "id": "vue-performance-toolkit",
+          "name": "Vue Performance Toolkit",
+          "description": "Vue.js application performance analysis and optimization toolkit helping developers improve app performance",
+          "category": "community",
+          "techStack": [
+            "Vue 3",
+            "TypeScript",
+            "Rollup",
+            "Jest",
+            "Performance API"
+          ],
+          "status": "online",
+          "url": "https://vue-perf-toolkit.aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/vue-performance-toolkit",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "Component Performance Analysis",
+            "Memory Leak Detection",
+            "Rendering Performance Monitoring",
+            "Optimization Suggestion Generation",
+            "Performance Report Export"
+          ],
+          "metrics": {
+            "stars": 89,
+            "forks": 21,
+            "visitors": 1200
+          }
+        },
+        {
+          "id": "frontend-interview-guide",
+          "name": "Frontend Interview Guide",
+          "description": "Systematic frontend interview preparation materials covering both technical and project management dimensions",
+          "category": "community",
+          "techStack": [
+            "VitePress",
+            "Markdown",
+            "TypeScript"
+          ],
+          "status": "online",
+          "url": "https://interview.aiyazone.com",
+          "githubUrl": "https://github.com/aiyazone/frontend-interview-guide",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "Technical Interview Question Bank",
+            "Project Management Interview Prep",
+            "Resume Optimization Advice",
+            "Interview Experience Sharing",
+            "Career Development Planning"
+          ],
+          "metrics": {
+            "stars": 234,
+            "forks": 67,
+            "visitors": 4500
+          }
+        },
+        {
+          "id": "open-source-contributions",
+          "name": "Open Source Contributions",
+          "description": "Collection of various open source contributions including Vue ecosystem, tool libraries, etc.",
+          "category": "community",
+          "techStack": [
+            "Vue",
+            "TypeScript",
+            "JavaScript",
+            "Node.js"
+          ],
+          "status": "online",
+          "url": "https://github.com/aiyazone",
+          "githubUrl": "https://github.com/aiyazone",
+          "imageUrl": "/assets/images/mind/bruce-brand.png",
+          "features": [
+            "Vue Ecosystem Contribution",
+            "Tool Library Development",
+            "Documentation Improvement",
+            "Bug Fixes",
+            "Feature Enhancements"
+          ],
+          "metrics": {
+            "stars": 45,
+            "forks": 12,
+            "visitors": 800
+          }
+        }
+      ]
+    }
+  ]
+}
